@@ -1,0 +1,3 @@
+Este projeto foi desenvolvido durante o segundo semestre de 2024, em colaboração com três colegas de classe. O foco é um otimizador de rotas que utiliza algoritmos genéticos para simplificar os cálculos envolvidos. Para aumentar a complexidade do projeto, implementamos diversas funcionalidades, como: rotas tridimensionais, subrotas, limites de distância e de pontos a serem visitados, além da adição de pontos de recarga para estender as rotas.
+
+Além disso, criamos um modelo 3D no Blender para facilitar a visualização do funcionamento do código. Ambos, o código em Python, que possui funcionalidade de geração de gráficos, e o modelo no Blender, estão disponíveis neste repositório.
